@@ -1,2 +1,8 @@
-
+body {
+    background-color: #E6F4F9;
+    font-family:Montserrat;
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-align: center;
+}
 
