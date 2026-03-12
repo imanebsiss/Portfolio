@@ -34,6 +34,9 @@ p{
     margin: 80px;
     padding: 30px;
 }
+ul{
+    list-style: none;
+}
 #dicton{
     color:#6f8088 ;
     padding-top: 10px;
