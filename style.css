@@ -28,4 +28,21 @@ h2{
 h3{
     color: rgb(163, 121, 121);
 }
+p{
+    border-radius: 30px;
+    border: 5px solid gray;    
+    margin: 80px;
+    padding: 40px;
+}
+#dicton{
+    color:#6f8088 ;
+    padding-top: 10px;
+    border: none;
+}
+#linkedin{
+    text-decoration: underline;
+    color: rgb(18, 18, 165);
+    padding-left: 50px;
+    font-size: 30px;
+}
 
