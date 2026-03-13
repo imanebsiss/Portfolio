@@ -13,7 +13,7 @@ h1{
     font-weight: bold;
 }
 a{
-    color: #595b5c ;
+    color: #7a8183 ;
     padding-right: 80px;
     text-decoration-line: none;
     font-weight: bold;
@@ -28,18 +28,33 @@ h2{
 h3{
     color: rgb(163, 121, 121);
 }
-p{
-    border: 5px solid gray;
-    border-radius: 80px;
-    margin: 80px;
-    padding: 30px;
-}
 ul{
     list-style: none;
 }
+img{
+    margin: 20px;
+}
+p{
+    line-height: 2;
+    font-size: 25px;
+}
+button{
+    background-color: rgb(173, 152, 164);
+    color: black;
+    font-size: 20px;
+    text-transform: capitalize;
+    padding: 15px;
+}
+textarea{
+    font-size: 30px;
+}
+footer{
+    color:#666464;
+}
 #dicton{
+    font-size: 2vw;
     color:#6f8088 ;
-    padding-top: 10px;
+    margin: 30px;
     border: none;
 }
 #linkedin{
@@ -48,8 +63,23 @@ ul{
     padding-left: 50px;
     font-size: 25px;
 }
+#name{
+    font-size: 30px;
+}
+#email{
+    font-size: 30px;
+}
+#message{
+    font: size 130px;
+}
 .subsection{
     border: 5px solid gray;
     border-radius: 80px;
-    margin: 80px;
+    margin: 100px;
+    padding: 30px;
+    line-height: 2;
+}
+.description{
+    font-size: 1rem;
+    padding: 10px;
 }
