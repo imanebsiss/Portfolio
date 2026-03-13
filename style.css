@@ -47,6 +47,10 @@ button{
 }
 textarea{
     font-size: 30px;
+    background-color:#ddbbcf ;
+}
+input{
+    background-color: #ddbbcf;
 }
 footer{
     color:#666464;
@@ -59,7 +63,7 @@ footer{
 }
 #linkedin{
     text-decoration: underline;
-    color: rgb(18, 18, 165);
+    color: rgb(27, 27, 199);
     padding-left: 50px;
     font-size: 25px;
 }
